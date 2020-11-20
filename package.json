@@ -1,0 +1,23 @@
+{
+  "name": "pxtovw-postcss",
+  "version": "0.1.1",
+  "description": "A plugin for postcss that generates 'vw' from pixel units. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flonny <flonny@foxmail.com>",
+  "homepage": "https://github.com/flonny/pxtovw-loader",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flonny/pxtovw-loader.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^8.1.8",
+    "pxtovw": "^0.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.2"
+  }
+}
